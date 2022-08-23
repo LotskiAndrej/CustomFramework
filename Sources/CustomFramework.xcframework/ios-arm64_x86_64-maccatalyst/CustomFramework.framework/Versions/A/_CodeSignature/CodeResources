@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		VzfNoxRFGugS6frUnb9vBah+yao=
+		nas5vywLJ607rAKiGSFYoRsd/Eo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,7 +43,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/dxOPn4SH7c1coKO3fkwCPq3GdbATaHmk5xVM5PH7ao=
+			T1UbHNdRAN65RKDWGihFOsvwQ5mKL/o6fWFpb6fF95A=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64.swiftdoc</key>
@@ -64,7 +64,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/dxOPn4SH7c1coKO3fkwCPq3GdbATaHmk5xVM5PH7ao=
+			T1UbHNdRAN65RKDWGihFOsvwQ5mKL/o6fWFpb6fF95A=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n5YHtnc/y4U3Val8oRvPCGDue0S0CT/xIi+xP9GB4J4=
+			4ZeP2FAB/tSJJMurm/2Z5+SldWzYQC6zlpGLWri7D8o=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -106,7 +106,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n5YHtnc/y4U3Val8oRvPCGDue0S0CT/xIi+xP9GB4J4=
+			4ZeP2FAB/tSJJMurm/2Z5+SldWzYQC6zlpGLWri7D8o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cjt/EqDYvCK1zcusl15UoSkzUXSv4pEE7DcQ+xcfyNY=
+			N9iE7ynIV+b8BVkpjLVY8xs8Oa1HYRr8Lk9wPpkxqN4=
 			</data>
 		</dict>
 	</dict>

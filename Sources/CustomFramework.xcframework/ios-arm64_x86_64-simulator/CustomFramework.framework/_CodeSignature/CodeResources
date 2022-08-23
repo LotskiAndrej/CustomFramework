@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ESzCAQQLQw4onJCOIsdgYkwMWWw=
+		Oxe02pVir0KmkxtKy8Lr+/94H0I=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Cuk1ODzP8W/wlq4lHX8pWPKo03U=
+		2i2QjQMoxHGY+wEqTM+3Z6VAC/U=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Cuk1ODzP8W/wlq4lHX8pWPKo03U=
+		2i2QjQMoxHGY+wEqTM+3Z6VAC/U=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		c1ZRxqbuONIKmbHSW7Hqp8LJeww=
+		56MwZHW44SmhKV/1pFiodMa7V8U=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		c1ZRxqbuONIKmbHSW7Hqp8LJeww=
+		56MwZHW44SmhKV/1pFiodMa7V8U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Lha//fy0ktO/utnf5jVNSawGdQD3nC/TwtMEShuYWk=
+			lNAl2m16iEOMbEhlDtE/73XONhKMLifA5sRDq/DM0yU=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64.swiftdoc</key>
@@ -124,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Lha//fy0ktO/utnf5jVNSawGdQD3nC/TwtMEShuYWk=
+			lNAl2m16iEOMbEhlDtE/73XONhKMLifA5sRDq/DM0yU=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NhfjAG06VWQcAwmlsMWXI/qcEasoUDQ8trHsUq630q0=
+			XkJNhJbIlNXeK84mutI9jImTgbOa5QxfEJ6LFVrt6xg=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NhfjAG06VWQcAwmlsMWXI/qcEasoUDQ8trHsUq630q0=
+			XkJNhJbIlNXeK84mutI9jImTgbOa5QxfEJ6LFVrt6xg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
